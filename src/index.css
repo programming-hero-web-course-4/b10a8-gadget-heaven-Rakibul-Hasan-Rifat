@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+.dashboard_active_btn {
+  color: #9538e2;
+  background-color: white;
+}

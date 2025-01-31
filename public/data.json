@@ -1,0 +1,268 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple MacBook Air M2",
+    "product_image": "https://i.pcmag.com/imagery/roundups/02wkkhUM4TbL4UyW7EfdF0E-60.fit_lim.size_1050x.jpg",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Lightweight, powerful, and efficient laptop with the Apple M2 chip.",
+    "Specification": [
+      "Processor: Apple M2",
+      "Display: 13.6-inch Liquid Retina",
+      "RAM: 8GB",
+      "Storage: 512GB SSD",
+      "Battery: Up to 18 hours",
+      "Weight: 2.7 lbs"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy Tab S9 Ultra",
+    "product_image": "https://media.johnlewiscontent.com/i/JohnLewis/samsung-ipad-top-131124?fmt=auto",
+    "category": "Tablet",
+    "price": 1199.99,
+    "description": "High-end Android tablet with stunning AMOLED display and S Pen.",
+    "Specification": [
+      "Processor: Snapdragon 8 Gen 2",
+      "Display: 14.6-inch Super AMOLED",
+      "RAM: 12GB",
+      "Storage: 512GB",
+      "Battery: 11200mAh",
+      "Camera: 13MP + 8MP Rear, 12MP Front"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Lenovo Yoga 9i",
+    "product_image": "https://cdn.mos.cms.futurecdn.net/Ajc3ezCTN4FGz2vF4LpQn9-1200-80.jpg",
+    "category": "Laptop",
+    "price": 1499.99,
+    "description": "Premium 2-in-1 laptop with a stunning 4K OLED touch display.",
+    "Specification": [
+      "Processor: Intel Core i7-1360P",
+      "Display: 14-inch 4K OLED",
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Battery: Up to 14 hours",
+      "Weight: 3.09 lbs"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://m.media-amazon.com/images/I/71WoHCC996L.jpg",
+    "category": "Smart Watch",
+    "price": 399.99,
+    "description": "Advanced smartwatch with health tracking and a new S9 chip.",
+    "Specification": [
+      "Display: Retina LTPO OLED",
+      "Connectivity: Bluetooth, Wi-Fi, Cellular",
+      "Battery Life: 18 hours",
+      "Sensors: ECG, Blood Oxygen, Heart Rate",
+      "Water Resistance: 50 meters"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/plp-x/tablet/autumn-2024-wearable-launch/kv/huawei-matepad-pro-12-2-kv.jpg",
+    "category": "Tablet",
+    "price": 1599.99,
+    "description": "A versatile 2-in-1 tablet with premium performance for productivity.",
+    "Specification": [
+      "Processor: Intel Core i7-1255U",
+      "Display: 13-inch PixelSense, 120Hz",
+      "RAM: 16GB",
+      "Storage: 512GB SSD",
+      "Battery: Up to 15 hours",
+      "Weight: 1.94 lbs"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Samsung Galaxy Watch 6 Classic",
+    "product_image": "https://static-01.daraz.com.bd/p/89f74644f505514e52ccc6e9dd16edd7.jpg",
+    "category": "Smart Watch",
+    "price": 449.99,
+    "description": "Elegant smartwatch with a rotating bezel and comprehensive health features.",
+    "Specification": [
+      "Display: 1.5-inch AMOLED",
+      "Connectivity: Bluetooth, Wi-Fi, LTE",
+      "Battery Life: Up to 40 hours",
+      "Sensors: Heart Rate, Blood Pressure, ECG",
+      "Water Resistance: 5 ATM"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P007",
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://cdn.thewirecutter.com/wp-content/media/2024/07/laptopsunder500-2048px-5452.jpg",
+    "category": "Laptop",
+    "price": 1699.99,
+    "description": "High-end convertible laptop with a vibrant OLED touch display.",
+    "Specification": [
+      "Processor: Intel Core i7-13700H",
+      "Display: 13.5-inch 3K OLED",
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Battery: Up to 17 hours",
+      "Weight: 3 lbs"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Garmin Fenix 7X Sapphire Solar",
+    "product_image": "https://img.drz.lazcdn.com/collect/my/p/ba7a6335f19039230910868a7168054f.jpg_960x960q80.jpg_.webp",
+    "category": "Smart Watch",
+    "price": 899.99,
+    "description": "Rugged multisport GPS smartwatch with solar charging and advanced tracking.",
+    "Specification": [
+      "Display: 1.4-inch MIP, Solar",
+      "Battery Life: Up to 37 days",
+      "Connectivity: Bluetooth, ANT+, Wi-Fi",
+      "Features: GPS, HR, SpO2, VO2 Max",
+      "Water Resistance: 10 ATM"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Dell XPS 15 (2024)",
+    "product_image": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/IMG_0281.jpeg",
+    "category": "Laptop",
+    "price": 2499.99,
+    "description": "Premium laptop with an immersive display and professional-grade performance.",
+    "Specification": [
+      "Processor: Intel Core i9-13900H",
+      "Display: 15.6-inch 4K UHD+",
+      "RAM: 32GB DDR5",
+      "Storage: 1TB SSD",
+      "Graphics: NVIDIA GeForce RTX 4070",
+      "Battery: Up to 10 hours"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P010",
+    "product_title": "OnePlus Pad",
+    "product_image": "https://i02.appmifile.com/376_operatorx_operatorx_opx/24/05/2024/3dd629a81b2a925e81a49e9ecbe86528.png",
+    "category": "Tablet",
+    "price": 499.99,
+    "description": "Sleek Android tablet with a powerful processor and smooth display.",
+    "Specification": [
+      "Processor: MediaTek Dimensity 9000",
+      "Display: 11.61-inch LCD, 144Hz",
+      "RAM: 8GB",
+      "Storage: 128GB",
+      "Battery: 9510mAh",
+      "Camera: 13MP Rear, 8MP Front"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Huawei MateBook X Pro",
+    "product_image": "https://i.pcmag.com/imagery/reviews/043DROGFihmSgG7S6LUb006-1..v1709854231.jpg",
+    "category": "Laptop",
+    "price": 1799.99,
+    "description": "A premium ultrabook with an exceptional touch display and lightweight design.",
+    "Specification": [
+      "Processor: Intel Core i7-13700H",
+      "Display: 14.2-inch 3.1K Touchscreen",
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Battery: Up to 15 hours",
+      "Weight: 2.92 lbs"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Google Pixel Tablet",
+    "product_image": "https://www.t-shop.com.pk/wp-content/uploads/2023/10/Tshop-Lenovo-Tab-M9-2023-Tablet-Long-Battery-Life-9-HD-Front-2MP-Rear-8MP-Camera-3GB-Memory-32GB-Storage-Android-12_Best-Price-Pakistan-2.webp",
+    "category": "Tablet",
+    "price": 599.99,
+    "description": "Versatile tablet with Google Tensor G2 chip and smart home integration.",
+    "Specification": [
+      "Processor: Google Tensor G2",
+      "Display: 10.95-inch LCD",
+      "RAM: 8GB",
+      "Storage: 256GB",
+      "Battery: 12 hours",
+      "Features: Charging Dock with Speaker"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P013",
+    "product_title": "Acer Swift Edge 16",
+    "product_image": "https://i.pcmag.com/imagery/reviews/07f8FmuWzIKHir2YRAXsK7G-1.fit_lim.size_919x518.v1716757237.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "Lightweight and powerful laptop with a stunning OLED display.",
+    "Specification": [
+      "Processor: AMD Ryzen 7 7840U",
+      "Display: 16-inch 3.2K OLED",
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Battery: Up to 9 hours",
+      "Weight: 2.6 lbs"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P014",
+    "product_title": "Apple iPad Mini 6",
+    "product_image": "https://hips.hearstapps.com/hmg-prod/images/gh-082521-best-tablets-1629991483.png",
+    "category": "Tablet",
+    "price": 499.99,
+    "description": "Compact and powerful tablet with an A15 Bionic chip.",
+    "Specification": [
+      "Processor: A15 Bionic",
+      "Display: 8.3-inch Liquid Retina",
+      "Storage: 256GB",
+      "Camera: 12MP Rear, 12MP Ultra-Wide Front",
+      "Battery: 10 hours",
+      "Weight: 0.65 lbs"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P015",
+    "product_title": "Samsung Galaxy Watch 6 Active",
+    "product_image": "https://www.gadstyle.com/wp-content/uploads/2024/08/samsung-galaxy-watch-7-ai-smart-watch-40mm-44mm-2.webp",
+    "category": "Smart Watch",
+    "price": 349.99,
+    "description": "Slim and lightweight smartwatch designed for fitness enthusiasts.",
+    "Specification": [
+      "Display: 1.3-inch AMOLED",
+      "Connectivity: Bluetooth, LTE",
+      "Battery Life: Up to 30 hours",
+      "Sensors: SpO2, Heart Rate, GPS",
+      "Water Resistance: 5 ATM"
+    ],
+    "availability": true,
+    "rating": 4.7
+  }
+]
